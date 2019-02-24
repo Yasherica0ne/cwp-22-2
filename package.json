@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "@yascher87/polish-notation": "^1.2.2"
+    }
+}
